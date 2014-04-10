@@ -1,0 +1,1 @@
+go build -o server.exe github.com\Laremere\vr-deploy\server && server.exe

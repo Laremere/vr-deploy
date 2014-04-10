@@ -1,0 +1,1 @@
+go build -o client.exe github.com\Laremere\vr-deploy\client && client.exe 127.0.0.1 2667 "client1"

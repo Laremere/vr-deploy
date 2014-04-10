@@ -1,0 +1,10 @@
+{
+	"listenPort": "2667",
+	"httpPort": "2668",
+	"clients":{
+		"client1": {
+			"source": "client1",
+			"run": "example.bat"			
+		}
+	}
+}
